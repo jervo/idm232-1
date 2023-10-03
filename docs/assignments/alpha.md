@@ -26,7 +26,7 @@ Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) u
 Example Submission
 
 ```
-Github Repo: https://github.com/mrpaulphan/idm232
+Github Repo: https://github.com/mrpaulphan/idm232-abc123
 Recipe Detail Page: https://mrpaulphan.com/idm232/final
 ```
 

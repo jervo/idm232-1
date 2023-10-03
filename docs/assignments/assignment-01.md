@@ -1,4 +1,4 @@
-# IDM232 Alpha
+# IDM232
 
 This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 
@@ -35,7 +35,7 @@ Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) u
 Example Submission
 
 ```
-Github Repo: https://githubc.com/mrpaulphan/idm232
+Github Repo: https://githubc.com/mrpaulphan/idm232-abc123
 Live URL: https://mrpaulphan.com/idm232/final
 ```
 
