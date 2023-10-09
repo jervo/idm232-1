@@ -1,14 +1,14 @@
 # IDM232
 
-This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
+This page describes an assignment for this course. Due dates and submissions are handled through Drexel Blackboard.
 
 ## Assignment 01 - Static Responsive Main Receipt Page
 
 ## References
 
-- <a href="https://www.allrecipes.com/" target="_blank">https://www.allrecipes.com/</a>
-- <a href="https://www.foodnetwork.com/" target="_blank">https://www.foodnetwork.com/</a>
-- <a href="https://www.yummly.com/" target="_blank">https://www.yummly.com/</a>
+- https://www.allrecipes.com/
+- https://www.foodnetwork.com/
+- https://www.yummly.com/
 
 
 ## Create
@@ -26,20 +26,19 @@ REQUIRED:
 - Footer
 
 
-
 ## Submitting the Assignment
 
 
-Submit the following items in <a href="https://learn.dcollege.net/" target="_blank"> Drexel Blackboard</a> under **Assignment 01** Create Submission
+Submit the following items in Drexel Blackboard under **Assignment 01** Create Submission
 
 1. A link to your main menu recipe web page.
-2. A link to your GitHub repository (i.e. "idm232-abc123") containing the code for your project.
+2. A link to your Public GitHub repository (i.e. "idm232-abc123") containing the code for your project.
 
-Format of Submission Links
+Example Submission Links
 
 ```
 Github Repo: https://githubc.com/jervo/idm232-jwt123
 Live URL: https://jervo.com/idm232/hwk01
 ```
 
-**Please double check your work and make sure all links are working before submitting. Broken links will cause you to lose points. Late submissions receive zero points.**
+**Please double check your work and make sure all links are working before submitting. Broken links will cause you to lose points. Late submissions can receive zero points.**
