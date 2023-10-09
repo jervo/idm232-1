@@ -6,9 +6,9 @@ This page describes an assignment for this course. Due dates and submissions are
 
 ## References
 
-- https://www.allrecipes.com/
-- https://www.foodnetwork.com/
-- https://www.yummly.com/
+- <a href="https://www.allrecipes.com/" target="_blank">https://www.allrecipes.com/</a>
+- <a href="https://www.foodnetwork.com/" target="_blank">https://www.foodnetwork.com/</a>
+- <a href="https://www.yummly.com/" target="_blank">https://www.yummly.com/</a>
 
 
 ## Create
@@ -29,12 +29,13 @@ REQUIRED:
 
 ## Submitting the Assignment
 
-Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Assignment 01** Submission:
+
+Submit the following items in <a href="https://learn.dcollege.net/" target="_blank"> Drexel Blackboard</a>under **Assignment 01** Create Submission
 
 1. A link to your main menu recipe web page.
 2. A link to your GitHub repository (i.e. "idm232-abc123") containing the code for your project.
 
-Example Submission Links
+Format of Submission Links
 
 ```
 Github Repo: https://githubc.com/jervo/idm232-jwt123
