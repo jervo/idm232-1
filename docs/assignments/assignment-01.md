@@ -30,7 +30,7 @@ REQUIRED:
 ## Submitting the Assignment
 
 
-Submit the following items in <a href="https://learn.dcollege.net/" target="_blank"> Drexel Blackboard</a>under **Assignment 01** Create Submission
+Submit the following items in <a href="https://learn.dcollege.net/" target="_blank"> Drexel Blackboard</a> under **Assignment 01** Create Submission
 
 1. A link to your main menu recipe web page.
 2. A link to your GitHub repository (i.e. "idm232-abc123") containing the code for your project.
