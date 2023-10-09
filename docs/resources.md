@@ -23,6 +23,11 @@
 
 - [PHP & MySQL: Novice to Ninja](https://www.amazon.com/PHP-MySQL-Novice-Kevin-Yank/dp/0987153080)
 
+
+## Recipes Microsoft Excel SpreadSheet
+
+- https://digm.drexel.edu/bblearn/idm232_recipes_spreadsheet_full.zip
+
 ## PHP
 
 - [php.net](https://php.net)
