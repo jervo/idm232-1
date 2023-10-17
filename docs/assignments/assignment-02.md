@@ -35,7 +35,7 @@ REQUIRED:
 
 Submit the following items in Drexel Blackboard under **Assignment 01** Create Submission
 
-1. A link to your hwk01 main menu recipe web page.
+1. A link to your hwk02 main menu recipe web page.
 2. A link to your Public GitHub repository (i.e. "idm232-abc123") containing the code for your project.
 
 Example Submission Links
