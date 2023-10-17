@@ -21,10 +21,13 @@ REQUIRED:
 - Hero Logo and/or Banner image
 - Meaningful Title
 - Meaningful Sub-Title
-- Search Area
-- Filters (i.e. Beef, Chicken, Vegetarian)
+- All interactive objects (i.e. buttons, etc) should have a cursor change on hover on/off 
+- Search Area - with button
+- Filters (i.e. Beef, Chicken, Vegetarian) based on client provied data
 - 9 Thumbnail recipe images with recipe titles underneath
-- Footer
+- Extra credit (+1) for meaningful microinteractions (other than cursor change)
+- Extra credit (+1) for other grouping ideas
+- Footer (Copy right info, Name optional but cool)
 
 
 ## Submitting the Assignment
