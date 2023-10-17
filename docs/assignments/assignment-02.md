@@ -20,6 +20,7 @@ REQUIRED:
 - Minium width 320 px, Maximum width 1920 px centered.
 - Hero Logo and/or Banner image
 - Meaningful Title
+- Meaningful Sub-Title
 - Search Area
 - Filters (i.e. Beef, Chicken, Vegetarian)
 - 9 Thumbnail recipe images with recipe titles underneath
