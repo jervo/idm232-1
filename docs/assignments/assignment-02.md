@@ -1,34 +1,44 @@
 # IDM232
 
-This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
+This page describes an assignment for this course. Due dates and submissions are handled through Drexel Blackboard.
 
-## Assignment 02 - Creating Recipe + Reading Recipe
+## Assignment 02 - Static Responsive Main Menu Recipe Page
 
-This assignment is strictly functionality. No CSS is required for this assignment.
+## References
 
-### Requirements
+- https://www.allrecipes.com/
+- https://www.foodnetwork.com/
+- https://www.yummly.com/
 
-- Create a screen (create recipe page) with a form where you can add all the required fields needed for a recipe and store it in your recipe table.
-- Create a screen (list recipes page) that will fetch all of the recipes from the database. It does not need to output every column. It just needs to display data in some way.
-- Create a screen (edit existing recipe page) that will allow you to edit existing recipe from a database and modify it.
-- Upload your up to date code to github
-- Push your code to production (Bluehost)
+
+## Fine Tune
+
+Fine Tune your static responsive main menu page that you will eventally use in your final project recipe web site:
+
+REQUIRED:
+
+- Minium width 320 px, Maximum width 1920 px centered.
+- Hero Logo and/or Banner image
+- Meaningful Title
+- Search Area
+- Filters (i.e. Beef, Chicken, Vegetarian)
+- 9 Thumbnail recipe images with recipe titles underneath
+- Footer
+
 
 ## Submitting the Assignment
 
-Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Assignment 02** Submission:
 
-1. A link to your GitHub repository (i.e. "idm232-abc123") containing the code for your project.
-2. Link to the two working pages (Must work)
+Submit the following items in Drexel Blackboard under **Assignment 01** Create Submission
 
-Example Submission
+1. A link to your hwk01 main menu recipe web page.
+2. A link to your Public GitHub repository (i.e. "idm232-abc123") containing the code for your project.
 
-```
-Github Repo: {link-to-your-project repo}
-Add a recipe: {link-to-your-example}
-Edit a recipe: {link-to-your-example}
-View all recipes: {link-to-your-example}
+Example Submission Links
 
 ```
+Live URL: https://jervo.com/idm232/hwk02
+Github Repo: https://github.com/jervo/idm232-jwt123
+```
 
-**Please double check your work and make sure all links are working before submitting. Broken links will cause you to lose points. Late submissions receive zero points.**
+**Please double check your work and make sure all links are working before submitting. Broken links will cause you to lose points. Late submissions can receive zero points.**
