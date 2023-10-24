@@ -18,12 +18,12 @@ Create the static responsive Recipe Details page that you will eventally use in 
 REQUIRED:
 
 - Minium width 320 px, Maximum width 1920 px centered.
-- Hero Logo and/or Banner image
 - Meaningful Title
+- Hero Logo and/or Banner image
 - RETURN/BACK Button
 - Ingredients Section
-- Step by Step instructions Section
-- etc based on client spread sheet
+- Step by Step Instructions Section
+- etc, Based on client spread sheet (https://digm.drexel.edu/bblearn/idm232_recipes_spreadsheet_full.zip)
 - Footer
 
 
