@@ -28,6 +28,10 @@
 
 - https://digm.drexel.edu/bblearn/idm232_recipes_spreadsheet_full.zip
 
+## Import Excel Spread Sheet into MySQL Database
+
+- https://digm.drexel.edu/bblearn/idm232_Excel_2_MySQL.zip
+
 ## PHP
 
 - [php.net](https://php.net)
