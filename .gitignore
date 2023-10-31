@@ -1,5 +1,5 @@
 # Files I don't want to see on github
-env.php
+**/env.php
 
 # Mac hidden files
-.DS_Store
+**/.DS_Store
