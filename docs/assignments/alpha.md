@@ -4,30 +4,27 @@ This page describes an assignment for this course. Due dates and submissions are
 
 ## Alpha Description
 
-Design and create an HTML based version of your final project pages. The functioning prototype:
+Convert client spreadsheet into a MySQLi database/table and intergrate recipe table records into your final project main menu web page. This page should display all 37 recipe thumbnails with at least title and subtitle information per thumbnail.
 
-- must be responsive (small to large)
-- must include wireframe design plans
-- must include a design inventory/style tile
-- can include PHP based enhancements
+NOTE: 
+- Develop and trouble shoot on your local MAMP server.
+- Duplicate your "env.php" file so that you have a localhost:8888 and a https:// version.
+- After everthing is working on your localhost then upload your files to your domain server.
 
-You do not have to create every single page for the entire final project. Instead you should be focused on building at least one template for every style of page your final project will need. Examples:
-
-User Screens
-- Recipe Detail Page (Includes Global Header and Global Footer)
 
 ## Submitting the Assignment
 
 Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Alpha** - Assignment Submission:
 
-1. A link to your self hosted prototype page. From this page, I can fully engage the project and have access to all supplementary pages and functions.
+1. A link to your main menu web page.
 1. A link to your GitHub repository (i.e. "idm232-abc123") containing the code for your project.
 
-Example Submission
+
+Example Submission Links
 
 ```
-Github Repo: https://github.com/mrpaulphan/idm232-abc123
-Recipe Detail Page: https://mrpaulphan.com/idm232/final
+Live URL: https://jervo.com/idm232/alpha/
+Github Repo: https://github.com/jervo/idm232-jwt123
 ```
 
 **Please double check your work and make sure all links are working before submitting. Broken links will cause you to lose points. Late submissions receive zero points.**
