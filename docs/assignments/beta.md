@@ -4,41 +4,29 @@ This page describes an assignment for this course. Due dates and submissions are
 
 ## Beta Description
 
-Create a PHP based version of your final project pages. The functioning prototype:
+Create a PHP based version of your final project recipe detail page. The functioning prototype:
 
+NOTES: 
 - Must be responsive (small to large)
 - Must PHP as the primary scripting language
 - Must include data driven from a MySQL database
-- Admin Pages
-  - Recipe Listing Page
-  - Create Recipe functionality/screen 
-  - Read Recipe functionality/screen (List of all recipes)
-  - Edit Recipe functionality/screen
-  - Delete Recipe functionality/screen
+- Develop and trouble shoot on your local MAMP server.
+- After everthing is working on your localhost then upload your files to your domain server.
 
-***** Upload Image feature does not have to be included in the beta but will be required for the final *****
-
-
-The goal is to have a complete project that is ready for beta testing. Treat this assignment as if you were turning in your final project, with as much complete as possible. Results of the beta testing will provide an opportunity to clear all remaining bugs prior to final delivery.
 
 ## Submitting the Assignment
 
-Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Beta**:
+Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Beta** - Assignment Submission:
 
-1. A link to your self hosted prototype page. From this page, I can fully engage the project and have access to all supplementary pages and functions.
-1. A link to your GitHub repository containing the code for your project.
+1. A link to your detail recipe web page.
+1. A link to your GitHub repository (i.e. "idm232-abc123") containing the code for your project.
 
-Example submission
+
+Example Submission Links
+
 ```
-Website: https://mrpaulphan.com/idm232
-Create Recipe Page: https://mrpaulphan.com/idm232/admin/recipes/create
-Read Recipe Page: https://mrpaulphan.com/idm232/recipes/all
-Edit Recipe Page: https://mrpaulphan.com/idm232/admin/recipes/edit?id=23
-Delete Recipe Page: https://mrpaulphan.com/idm232/admin/recipes/all
- - Since the delete doesn't have a page, I would list instructions on how to delete an recipe.
- - Example "Go to the read recipe page and click on the trash icon next to a recipe to delete
-
-Github link: https://github.com/mrpaulphan
+Live URL: https://jervo.com/idm232/beta/
+Github Repo: https://github.com/jervo/idm232-jwt123
 ```
 
-**Late submissions receive zero points.**
+**Please double check your work and make sure all links are working before submitting. Broken links will cause you to lose points. Late submissions receive zero points.**

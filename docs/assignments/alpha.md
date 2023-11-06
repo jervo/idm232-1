@@ -6,9 +6,9 @@ This page describes an assignment for this course. Due dates and submissions are
 
 Convert client spreadsheet into a MySQLi database/table and intergrate recipe table records into your final project main menu web page. This page should display all 37 recipe thumbnails with at least title and subtitle information per thumbnail.
 
-NOTE: 
+NOTES: 
 - Develop and trouble shoot on your local MAMP server.
-- Duplicate your "env.php" file so that you have a localhost:8888 and a https:// version.
+- Update your "env.php" file so it can handle localhost:8888 and https:// domains.
 - After everthing is working on your localhost then upload your files to your domain server.
 
 
