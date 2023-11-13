@@ -37,7 +37,7 @@ The following outline lists the requirements for successfully completing the fin
 - [ ] Projects must include **all** of the provided recipes, not a subset, unless told otherwise.
 - [ ] All sites must be fully responsive, from a range of small to large (smart phone to desktop monitor).
 
-### **Global (9 points)**
+### **Global**
 
 - [] All submitted pages must have zero **errors** or **warnings** when live URL is ran through an HTML Validator. Please use [validator.w3.org](https://validator.w3.org/#validate_by_uri+with_options)
 - [] Minimum of 37 unique recipes/entries
@@ -57,7 +57,7 @@ $phone_value = sanitize_value($_POST['phone']);
 
 ### **Extra Credit**
 
-- Bullet list of any additions you made to your final project NOT covered in class.
+- Bullet list of any functional ladditions you made to your final project NOT covered in class.
 
 ## Grading Criteria
 
