@@ -2,15 +2,6 @@
 
 This page describes an assignment for this course. Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 
-- [IDM232 Final Project](#idm232-final-project)
-  - [Project Description](#project-description)
-  - [Project Requirements](#project-requirements)
-    - [**Main Page**](#user-pages)
-    - [**Detail Page**](#admin-pages)
-    - [**Extra Credit**](#extra-credit)
-  - [Grading Criteria](#grading-criteria)
-  - [Submitting the Assignment](#submitting-the-assignment)
-  - [Example Submission](#example-submission)
 
 ## Project Description
 
