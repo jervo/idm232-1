@@ -24,9 +24,6 @@ Additional techniques, including, but not limited to the following may be used a
 - Node.js
 - Task runners (Grunt, Gulp, NPM etc.)
 
-## Project Asset Files
-
-[Download asset files](https://github.com/mrpaulphan/idm232/tree/master/docs/assignments/final_assets/recipes)
 
 ## Project Requirements
 
