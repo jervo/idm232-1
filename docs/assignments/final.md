@@ -44,7 +44,6 @@ The following outline lists the requirements for successfully completing the fin
 - [] Codebase does not contain any debugging logs such as `print_r()` or `var_dump()` in your code.
 - [] Every submitted page has a unique document title
 - [] favicon is included
-- [] Every value coming from a form is sanitized and cleaned using the `sanitize_value()` function from `helper_function.php`
 
   Example
 
